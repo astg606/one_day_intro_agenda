@@ -1,4 +1,4 @@
-# Beginner Python Course for Programmers
+## Agenda
 
 
 | Time | Lecture Topic | Interactive Link | Lecturer |
