@@ -10,8 +10,8 @@
 | 10:35 - 11:15 | Loops | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/loops/blob/master/loops.ipynb) |  |
 | 11:15 - 12:00 | Advanced Data Types | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/data_types/blob/master/Python_advanced_data_types.ipynb) |  |
 | 12:00 - 13:00 | Lunch Break |  |  |
-| 13:00 - 13:35 | Functions | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Functions.ipynb) |  |
-| 13:35 - 14:00 | Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Modules.ipynb) |  |
+| 13:00 - 13:35 | Functions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Functions.ipynb) |  |
+| 13:35 - 14:00 | Modules | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Modules.ipynb) |  |
 | 14:00 - 15:00 | Basic Visualization with Matplotlib | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/viz/blob/master/IntroMatplotlib.ipynb) |  |
 | 15:00 - 15:15 | Break |  |  |
 | 15:15 - 16:15 | Overview of Reading/Writing Data Files (text, binary, nc4, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/adv_io.ipynb) |  |
