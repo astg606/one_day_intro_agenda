@@ -1,4 +1,8 @@
-## Agenda
+## An Accelerated One-Day Beginner Python Class for Programmers
+
+
+
+### AGENDA
 
 
 | Time | Lecture Topic | Interactive Link | Lecturer |
