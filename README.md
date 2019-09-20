@@ -4,6 +4,7 @@
 
 ### AGENDA
 
+<!---
 | Time | Lecture Topic | Interactive Link | Lecturer |
 |------|---------------|------------------|----------|
 | 08:30-09:15 | **Basic Setups and Launching Python** |  |  |
@@ -20,9 +21,9 @@
 | 15:15-16:15 | **Overview of Reading/Writing Data Files** (text, binary, nc4, etc.) |  |  |
 | 16:15-17:15 | **Introduction to Pandas** |  |  |
 | 17:15-17:30 | **Feedback Session** |  |  |
+--->
 
 
-<!---
 | Time | Lecture Topic | Interactive Link | Lecturer |
 |------|---------------|------------------|----------|
 | 08:30-09:15 | **Basic Setups and Launching Python** |  |  |
@@ -39,4 +40,4 @@
 | 15:15-16:15 | **Overview of Reading/Writing Data Files** (text, binary, nc4, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/adv_io.ipynb) |  |
 | 16:15-17:15 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/pandas/blob/master/Intro_Pandas.ipynb) |  |
 | 17:15-17:30 | **Feedback Session** |  |  |
---->
+
