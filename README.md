@@ -41,3 +41,6 @@
 | 16:15-17:15 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/pandas/blob/master/Intro_Pandas.ipynb) | Jules |
 | 17:15-17:30 | **Feedback Session** |  |  |
 
+<!---
+| 17:15-17:30 | **Feedback Session** |  | <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> |
+--->
