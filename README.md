@@ -39,10 +39,10 @@
 | 15:00-15:15 | Break |  |  |
 | 15:15-16:15 | **Overview of Reading/Writing Data Files** (text, binary, nc4, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/io/blob/master/adv_io.ipynb) | Jules |
 | 16:15-17:15 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/pandas/blob/master/Intro_Pandas.ipynb) | Jules |
-| 17:15-17:30 | **Feedback Session** |  | <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> |
+| 17:15-17:30 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> | |
 
 
 <!---
 | 17:15-17:30 | **Feedback Session** |  |  |
-| 17:15-17:30 | **Feedback Session** |  | <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> |
+| 17:15-17:30 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> | |
 --->
