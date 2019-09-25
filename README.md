@@ -30,7 +30,7 @@
 | 09:15-10:00 | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/data_types/blob/master/Python_basic_data_types.ipynb) | Jules |
 | 10:00-10:15 | Break |  |  |
 | 10:15-11:35 | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/conditional_logic/blob/master/conditionals.ipynb) | Carlos |
-| 10:35-11:15 | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/loops/blob/master/loops.ipynb) | Jules |
+| 10:35-11:15 | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/loops/blob/master/loop.ipynb) | Jules |
 | 11:15-12:00 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/data_types/blob/master/Python_advanced_data_types.ipynb) | Carlos |
 | 12:00-13:00 | Lunch Break |  |  |
 | 13:00-13:35 | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/functions_modules/blob/master/Functions.ipynb) | Jules |
